@@ -84,13 +84,13 @@ Me motiva construir soluciones innovadoras que generen impacto real, con un enfo
 <table>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/luciaduque248/MyProfile/main/assets/quote1.svg" width="300"/>
+      <img src="assets/quote1.svg" width="250"/>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/luciaduque248/MyProfile/main/assets/quote2.svg" width="300"/>
+      <img src="assets/quote2.svg" width="250"/>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/luciaduque248/MyProfile/main/assets/quote3.svg" width="300"/>
+      <img src="assets/quote3.svg" width="250"/>
     </td>
   </tr>
 </table>
