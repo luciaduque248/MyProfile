@@ -1,4 +1,8 @@
-<h2 align="left">🌟 Sara Duque | Desarrolladora Frontend & Fullstack — Creando aplicaciones web de alto rendimiento con tecnologías modernas ⚡</h2>
+# 👩‍💻 Sara Duque  
+
+✨ **Desarrolladora Frontend & Fullstack**  
+⚡ Construyendo experiencias digitales intuitivas y de alto rendimiento.  
+🌱 Siempre aprendiendo y explorando nuevas tecnologías.  
 
 
 ## 💫 About Me
