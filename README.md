@@ -75,8 +75,17 @@ Me motiva construir soluciones innovadoras que generen impacto real, con un enfo
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+### ✍️ Dev Quotes
+
+💡 *"El código no solo resuelve problemas técnicos, también abre puertas a nuevas formas de pensar."*  
+— **Fulvio Yesid Vivas (Universidad del Cauca)**  
+
+💡 *"La ingeniería no se trata solo de circuitos o líneas de código, sino de impactar vidas con soluciones inteligentes."*  
+— **Oscar Caicedo (IEEE)**  
+
+💡 *"El verdadero aprendizaje en tecnología ocurre cuando conectamos teoría con práctica y nunca dejamos de experimentar."*  
+— **Fulvio Yesid Vivas (Universidad del Cauca)**
+
 
 ---
 
