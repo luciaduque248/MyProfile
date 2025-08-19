@@ -81,9 +81,9 @@ Me motiva construir soluciones innovadoras que generen impacto real, con un enfo
 
 <div align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
 
-  <img src="quotes/comentario1.svg" width="320" height="320"/>
-  <img src="quotes/comentario2.svg" width="320" height="320"/>
-  <img src="quotes/comentario3.svg" width="320" height="320"/>
+  <img src="quotes/quote1.svg" width="320" height="320"/>
+  <img src="quotes/quote2.svg" width="320" height="320"/>
+  <img src="quotes/quote3.svg" width="320" height="320"/>
 
 </div>
 
