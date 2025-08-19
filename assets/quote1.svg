@@ -1,32 +1,29 @@
-<svg fill="none" viewBox="0 0 600 200" width="600" height="200" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 300 300" width="300" height="300" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .title {
-      font: bold 18px sans-serif;
-      fill: #ff5faf;
-    }
-    .quote {
-      font: 14px sans-serif;
-      fill: #ffffff;
-    }
-    .author {
-      font: italic 12px sans-serif;
-      fill: #c0c0c0;
-    }
+    .title { font: bold 16px sans-serif; fill: #ff5faf; }
+    .quote { font: 12px sans-serif; fill: #ffffff; }
+    .author { font: italic 11px sans-serif; fill: #c0c0c0; }
   </style>
-  
-  <rect width="100%" height="100%" fill="#1a1a1a" rx="10" />
 
-  <!-- Título con más margen -->
-  <text x="50%" y="40" text-anchor="middle" class="title">💡 Dev Quote</text>
+  <!-- Fondo -->
+  <rect width="100%" height="100%" fill="#1a1a1a" rx="15" />
 
-  <text x="50%" y="80" text-anchor="middle" class="quote">
-    "El código no solo resuelve problemas técnicos,
-  </text>
+  <!-- Título con margin-bottom extra -->
+  <text x="50%" y="50" text-anchor="middle" class="title">💡 Dev Quote</text>
+
+  <!-- Frase -->
   <text x="50%" y="100" text-anchor="middle" class="quote">
-    también abre puertas a nuevas formas de pensar."
+    "El código no solo resuelve
+  </text>
+  <text x="50%" y="120" text-anchor="middle" class="quote">
+    problemas técnicos, también
+  </text>
+  <text x="50%" y="140" text-anchor="middle" class="quote">
+    abre nuevas formas de pensar."
   </text>
 
-  <text x="50%" y="140" text-anchor="middle" class="author">
+  <!-- Autor -->
+  <text x="50%" y="200" text-anchor="middle" class="author">
     — Fulvio Yesid Vivas (Universidad del Cauca)
   </text>
 </svg>
