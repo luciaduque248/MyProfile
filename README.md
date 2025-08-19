@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/luciaduque248/luciaduque248/main/BannerSaraDuque.png" width="100%" alt="Banner"/>
+<img align="center" src="https://raw.githubusercontent.com/luciaduque248/luciaduque248/main/BannerSaraDuque.jpg" width="100%" alt="Banner"/>
 
 
 # 👩‍💻 Sara Duque  
