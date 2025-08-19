@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Sara Duque and I'm a Frontend Developer, from Colombia 🇨🇴</h2>
+<h2 align="left">🌟 Sara Duque | Desarrolladora Frontend & Fullstack — Creando aplicaciones web de alto rendimiento con tecnologías modernas ⚡</h2>
+
 
 ## 💫 About Me
 
