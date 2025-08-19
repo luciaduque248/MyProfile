@@ -2,6 +2,9 @@
 
 ###
 
+<img align="right" height="150" src="https://raw.githubusercontent.com/luciaduque248/Myprofile/main/Sara.gif" />
+
+
 # 💫 About Me:
 Soy **Desarrolladora Frontend** con experiencia en la creación de interfaces intuitivas, responsivas y centradas en el usuario. Trabajo con tecnologías como **React, Angular, Vue.js y Node.js**, además de un sólido dominio en **JavaScript, HTML5, CSS3 y Bootstrap**.<br><br>Durante mi experiencia en **Kuepa Edutech**, lideré la implementación de un sistema de diseño integral y el rediseño de aplicaciones, logrando mejoras significativas en la interacción y satisfacción de los usuarios. También cuento con formación como **Fullstack Developer**, lo que me permite integrar de manera fluida el frontend con el backend y optimizar la experiencia completa del usuario.<br><br>Me motiva construir soluciones innovadoras que generen impacto real, con un enfoque en la **usabilidad, escalabilidad y rendimiento**, aplicando siempre **metodologías ágiles** y buenas prácticas de desarrollo. 🚀
 
