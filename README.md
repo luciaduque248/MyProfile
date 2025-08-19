@@ -81,7 +81,6 @@ Me motiva construir soluciones innovadoras que generen impacto real, con un enfo
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luciaduque248&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=luciaduque248&theme=dracula&hide_border=false" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciaduque248&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
 </p>
