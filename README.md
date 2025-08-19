@@ -90,11 +90,6 @@ Soy **Desarrolladora Frontend** con experiencia en la creación de interfaces in
 
 <br clear="both">
 
-## 📊 GitHub Contributions
-![GitHub Contributions](https://ghchart.rshah.org/79fe96/luciaduque248)
-
-
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=luciaduque248&icon=8&color=1)](https://visitcount.itsvg.in)
