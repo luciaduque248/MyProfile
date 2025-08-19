@@ -1,3 +1,6 @@
+<img align="center" src="https://raw.githubusercontent.com/luciaduque248/luciaduque248/main/bannerSaraDuque.npg" width="100%" alt="Banner"/>
+
+
 # 👩‍💻 Sara Duque  
 
 ✨ **Desarrolladora Frontend & Fullstack**  
@@ -7,7 +10,7 @@
 
 ## 💫 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/luciaduque248/Myprofile/main/Sara.gif" width="250" alt="Sara Duque gif"/>
+<img align="right" src="https://raw.githubusercontent.com/luciaduque248/luciaduque248/main/Sara.gif" width="250" alt="Sara Duque gif"/>
 
 Soy **Desarrolladora Frontend** con experiencia en la creación de interfaces intuitivas, responsivas y centradas en el usuario.  
 Trabajo con tecnologías como **React, Angular, Vue.js y Node.js**, además de un sólido dominio en **JavaScript, HTML5, CSS3 y Bootstrap**.  
