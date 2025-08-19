@@ -1,0 +1,16 @@
+<svg fill="none" viewBox="0 0 320 320" width="320" height="320" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: bold 18px sans-serif; fill: #ffb86c; }
+    .text { font: italic 14px sans-serif; fill: #ffffff; }
+    .author { font: 12px sans-serif; fill: #cccccc; }
+    .bg { fill: #2a2139; }
+  </style>
+  <rect class="bg" width="320" height="320" rx="15"/>
+  <text x="20" y="40" class="title">💡 Dev Quote</text>
+  <text x="20" y="90" class="text">"El verdadero aprendizaje en</text>
+  <text x="20" y="115" class="text">tecnología ocurre cuando</text>
+  <text x="20" y="140" class="text">conectamos teoría con práctica</text>
+  <text x="20" y="165" class="text">y nunca dejamos de experimentar."</text>
+  <text x="20" y="210" class="author">— Fulvio Yesid Vivas</text>
+  <text x="20" y="230" class="author">(Universidad del Cauca)</text>
+</svg>
