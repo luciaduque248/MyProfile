@@ -1,14 +1,18 @@
 <h2 align="left">Hi 👋! My name is Sara Duque and I'm a Frontend Developer, from Colombia 🇨🇴</h2>
 
-###
+## 💫 About Me
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/luciaduque248/Myprofile/main/Sara.gif" />
+<img align="right" src="https://raw.githubusercontent.com/luciaduque248/Myprofile/main/Sara.gif" width="250" alt="Sara Duque gif"/>
 
+Soy **Desarrolladora Frontend** con experiencia en la creación de interfaces intuitivas, responsivas y centradas en el usuario.  
+Trabajo con tecnologías como **React, Angular, Vue.js y Node.js**, además de un sólido dominio en **JavaScript, HTML5, CSS3 y Bootstrap**.  
 
-# 💫 About Me:
-Soy **Desarrolladora Frontend** con experiencia en la creación de interfaces intuitivas, responsivas y centradas en el usuario. Trabajo con tecnologías como **React, Angular, Vue.js y Node.js**, además de un sólido dominio en **JavaScript, HTML5, CSS3 y Bootstrap**.<br><br>Durante mi experiencia en **Kuepa Edutech**, lideré la implementación de un sistema de diseño integral y el rediseño de aplicaciones, logrando mejoras significativas en la interacción y satisfacción de los usuarios. También cuento con formación como **Fullstack Developer**, lo que me permite integrar de manera fluida el frontend con el backend y optimizar la experiencia completa del usuario.<br><br>Me motiva construir soluciones innovadoras que generen impacto real, con un enfoque en la **usabilidad, escalabilidad y rendimiento**, aplicando siempre **metodologías ágiles** y buenas prácticas de desarrollo. 🚀
+Durante mi experiencia en **Kuepa Edutech**, lideré la implementación de un sistema de diseño integral y el rediseño de aplicaciones, logrando mejoras significativas en la interacción y satisfacción de los usuarios.  
 
----
+También cuento con formación como **Fullstack Developer**, lo que me permite integrar de manera fluida el frontend con el backend y optimizar la experiencia completa del usuario.  
+
+Me motiva construir soluciones innovadoras que generen impacto real, con un enfoque en la **usabilidad, escalabilidad y rendimiento**, aplicando siempre **metodologías ágiles** y buenas prácticas de desarrollo. 🚀
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-duque-desarrolladora-frontend/) 
