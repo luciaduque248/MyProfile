@@ -97,7 +97,4 @@ Me motiva construir soluciones innovadoras que generen impacto real, con un enfo
 <br clear="both">
 
 
----
-[![](https://visitcount.itsvg.in/api?id=luciaduque248&icon=8&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
