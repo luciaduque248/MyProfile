@@ -77,13 +77,26 @@ Me motiva construir soluciones innovadoras que generen impacto real, con un enfo
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quotes  
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/luciaduque248/Myprofile/main/quotes/quote1.svg" height="170" />
-  <img src="https://raw.githubusercontent.com/luciaduque248/Myprofile/main/quotes/quote2.svg" height="170" />
-  <img src="https://raw.githubusercontent.com/luciaduque248/Myprofile/main/quotes/quote3.svg" height="170" />
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/luciaduque248/MyProfile/main/assets/quote1.svg" width="300"/>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/luciaduque248/MyProfile/main/assets/quote2.svg" width="300"/>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/luciaduque248/MyProfile/main/assets/quote3.svg" width="300"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
 
 ---
