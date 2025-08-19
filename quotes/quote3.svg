@@ -1,0 +1,27 @@
+<svg width="495" height="170" viewBox="0 0 495 170" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="495" height="170" rx="10" fill="#141321"/>
+  <defs>
+    <linearGradient id="g3" x1="0" y1="0" x2="495" y2="170" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2a0a42" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#1f1135" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="493" height="168" rx="9" fill="url(#g3)" stroke="#2b2b2b" stroke-opacity="0.35"/>
+  <!-- Header -->
+  <g transform="translate(18,18)">
+    <circle cx="12" cy="12" r="12" fill="#F8D847"/>
+    <text x="34" y="16" font-family="Segoe UI, Roboto, Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#fe428e" font-weight="700">Dev Quote</text>
+  </g>
+  <!-- Quote -->
+  <g transform="translate(18,54)">
+    <text x="0" y="0" font-family="Segoe UI, Roboto, Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#a9fef7">
+      “El verdadero aprendizaje en tecnología ocurre cuando conectamos
+    </text>
+    <text x="0" y="22" font-family="Segoe UI, Roboto, Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#a9fef7">
+      teoría con práctica y nunca dejamos de experimentar.”
+    </text>
+    <text x="0" y="52" font-family="Segoe UI, Roboto, Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#c4f9ff">
+      — Fulvio Yesid Vivas (Universidad del Cauca)
+    </text>
+  </g>
+</svg>
