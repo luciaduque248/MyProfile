@@ -90,7 +90,9 @@ Soy **Desarrolladora Frontend** con experiencia en la creación de interfaces in
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/luciaduque248/luciaduque248/output/snake.svg" alt="Snake animation" />
+## 📈 GitHub Activity Graph
+[![Sara's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luciaduque248&bg_color=0d1117&color=79fe96&line=79fe96&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=luciaduque248&icon=8&color=1)](https://visitcount.itsvg.in)
