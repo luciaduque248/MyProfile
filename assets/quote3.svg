@@ -1,0 +1,31 @@
+<svg fill="none" viewBox="0 0 600 200" width="600" height="200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title {
+      font: bold 18px sans-serif;
+      fill: #ff5faf;
+    }
+    .quote {
+      font: 14px sans-serif;
+      fill: #ffffff;
+    }
+    .author {
+      font: italic 12px sans-serif;
+      fill: #c0c0c0;
+    }
+  </style>
+  
+  <rect width="100%" height="100%" fill="#1a1a1a" rx="10" />
+
+  <text x="50%" y="40" text-anchor="middle" class="title">💡 Dev Quote</text>
+
+  <text x="50%" y="80" text-anchor="middle" class="quote">
+    "Programar es como escribir poesía:
+  </text>
+  <text x="50%" y="100" text-anchor="middle" class="quote">
+    cada línea debe tener propósito y armonía."
+  </text>
+
+  <text x="50%" y="140" text-anchor="middle" class="author">
+    — Fulvio Yesid Vivas (Universidad del Cauca)
+  </text>
+</svg>
