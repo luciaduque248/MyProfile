@@ -27,7 +27,6 @@ Me motiva construir soluciones innovadoras que generen impacto real, con un enfo
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luciaduque248@gmail.com)  
 
 ---
----
 
 # 💻 Tech Stack
 
