@@ -1,20 +1,26 @@
 name: generate animation
 
 on:
-  schedule: # ejecuta todos los días a la medianoche (UTC)
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # permite correrlo manualmente desde Actions
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Prepare dist folder
+        run: mkdir -p dist
+
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: luciaduque248
-          outputs: dist/snake.svg
+          output: dist/snake.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
