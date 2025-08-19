@@ -79,24 +79,13 @@ Me motiva construir soluciones innovadoras que generen impacto real, con un enfo
 
 ### ✍️ Dev Quotes  
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-<table>
-  <tr>
-    <td>
-      <img src="assets/quote1.svg" width="250"/>
-    </td>
-    <td>
-      <img src="assets/quote2.svg" width="250"/>
-    </td>
-    <td>
-      <img src="assets/quote3.svg" width="250"/>
-    </td>
-  </tr>
-</table>
+  <img src="assets/quote1.svg" width="250" height="250"/>
+  <img src="assets/quote2.svg" width="250" height="250"/>
+  <img src="assets/quote3.svg" width="250" height="250"/>
 
 </div>
-
 
 
 ---
