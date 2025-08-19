@@ -75,16 +75,17 @@ Me motiva construir soluciones innovadoras que generen impacto real, con un enfo
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 
 
+---
+
+
 ### ✍️ Dev Quotes
 
-💡 *"El código no solo resuelve problemas técnicos, también abre puertas a nuevas formas de pensar."*  
-— **Fulvio Yesid Vivas (Universidad del Cauca)**  
+![Quote 1](https://img.shields.io/badge/%F0%9F%92%A1%20"El%20código%20no%20solo%20resuelve%20problemas%20técnicos,%20también%20abre%20puertas%20a%20nuevas%20formas%20de%20pensar."-Fulvio%20Yesid%20Vivas%20(Universidad%20del%20Cauca)-purple?style=for-the-badge)
 
-💡 *"La ingeniería no se trata solo de circuitos o líneas de código, sino de impactar vidas con soluciones inteligentes."*  
-— **Oscar Caicedo (IEEE)**  
+![Quote 2](https://img.shields.io/badge/%F0%9F%92%A1%20"La%20ingeniería%20no%20se%20trata%20solo%20de%20circuitos%20o%20líneas%20de%20código,%20sino%20de%20impactar%20vidas%20con%20soluciones%20inteligentes."-Oscar%20Caicedo%20(IEEE)-blue?style=for-the-badge)
 
-💡 *"El verdadero aprendizaje en tecnología ocurre cuando conectamos teoría con práctica y nunca dejamos de experimentar."*  
-— **Fulvio Yesid Vivas (Universidad del Cauca)**
+![Quote 3](https://img.shields.io/badge/%F0%9F%92%A1%20"El%20verdadero%20aprendizaje%20en%20tecnología%20ocurre%20cuando%20conectamos%20teoría%20con%20práctica%20y%20nunca%20dejamos%20de%20experimentar."-Fulvio%20Yesid%20Vivas%20(Universidad%20del%20Cauca)-green?style=for-the-badge)
+
 
 
 ---
