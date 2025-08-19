@@ -75,23 +75,6 @@ Me motiva construir soluciones innovadoras que generen impacto real, con un enfo
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 
 
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=luciaduque248&theme=dracula&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciaduque248&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=luciaduque248&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
----
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
